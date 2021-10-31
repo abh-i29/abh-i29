@@ -72,8 +72,25 @@ Last Updated: Sunday, October 31st, 2021, 2:51:37 PM
 ---
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abh-i29&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=2f2519" />
+<p align="centre">
+ 
+ <div align = "center">
+  
+  <a href="https://github.com/AmolSamota" title="Redirect's to AmolSamota's Github">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmolSamota&show_icons=true&theme=radical&count_private=true" /></a>
 
+  <a href="https://github.com/AmolSamota">
+  <img width="49%" title="Redirect's to Amol's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolSamota&theme=radical" /></a>
+  <a href ="https://github.com/AmolSamota" title="Redirect's to AmolSamota's Github">
+  
+  </div>
+ <div align = "center">
+  
+  </div>
+
+</p>
+
+---
 
 [codeforces]: https://codeforces.com/profile/FujunK
 [instagram]: https://www.instagram.com/a_b_h_i_29/
