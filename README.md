@@ -72,9 +72,9 @@ Last Updated: Sunday, October 31st, 2021, 2:51:37 PM
 ---
 ### :zap: Github Stats
 
-<p align="centre">
+<p align="left">
  
- <div align = "center">
+ <div align = "left">
   
   <a href="https://github.com/abh-i29" title="Redirect's to Abhishek's Github">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abh-i29&show_icons=true&theme=radical&count_private=true" /></a>
@@ -84,7 +84,7 @@ Last Updated: Sunday, October 31st, 2021, 2:51:37 PM
   <a href ="https://github.com/abh-i29" title="Redirect's to abh-i29's Github"> -->
   
   </div>
- <div align = "center">
+ <div align = "left">
   
   </div>
 
